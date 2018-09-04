@@ -1,0 +1,30 @@
+{
+  "name": "wp-starter",
+  "version": "1.0.0",
+  "description": "Starter theme for Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmikkelsen/wp-starter.git"
+  },
+  "keywords": [
+    "wp",
+    "starter"
+  ],
+  "author": "Eric Mikkelsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmikkelsen/wp-starter/issues"
+  },
+  "homepage": "https://github.com/ericmikkelsen/wp-starter#readme",
+  "dependencies": {
+    "husky": "^1.0.0-rc.13"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2",
+    "pretty-quick": "^1.6.0"
+  }
+}
